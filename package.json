@@ -8,6 +8,10 @@
   },
   "author": "Vsevolod Ivanov",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wwwsevolod/gulp-livecss.git"
+  },
   "dependencies": {
     "through2": "~0.4.1",
     "gulp-util": "~2.2.14"
