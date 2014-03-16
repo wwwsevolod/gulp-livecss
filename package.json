@@ -1,0 +1,15 @@
+{
+  "name": "gulp-livecss",
+  "version": "0.3.0",
+  "description": "Gulp module for stream new css to browser and delete previous styles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vsevolod Ivanov",
+  "license": "MIT",
+  "dependencies": {
+    "through2": "~0.4.1",
+    "gulp-util": "~2.2.14"
+  }
+}
